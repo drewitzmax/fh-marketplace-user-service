@@ -1,0 +1,1 @@
+gcloud app deploy C:\Users\drewi\Documents\GitHub\FhMarketplace\build\libs\FhMarketplace-0.0.1-SNAPSHOT.jar --appyaml C:\Users\drewi\Documents\GitHub\FhMarketplace\app.yaml
